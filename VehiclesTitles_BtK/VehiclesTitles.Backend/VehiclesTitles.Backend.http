@@ -1,0 +1,6 @@
+@VehiclesTitles.Backend_HostAddress = http://localhost:5146
+
+GET {{VehiclesTitles.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
