@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehiclesTitles.Backend", "VehiclesTitles.Backend\VehiclesTitles.Backend.csproj", "{4710577D-8514-4350-8D42-C48378474202}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehiclesTitles.Backend", "VehiclesTitles.Backend\VehiclesTitles.Backend.csproj", "{4710577D-8514-4350-8D42-C48378474202}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehiclesTitles.Frontend", "VehiclesTitles.Frontend\VehiclesTitles.Frontend.csproj", "{C47936BB-B3DA-4184-8075-6CE1AEC4DDCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehiclesTitles.Frontend", "VehiclesTitles.Frontend\VehiclesTitles.Frontend.csproj", "{C47936BB-B3DA-4184-8075-6CE1AEC4DDCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehiclesTitles.Shared", "VehiclesTitles.Shared\VehiclesTitles.Shared.csproj", "{AE73584A-F399-4E22-9704-943B8BAA91A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehiclesTitles.Shared", "VehiclesTitles.Shared\VehiclesTitles.Shared.csproj", "{AE73584A-F399-4E22-9704-943B8BAA91A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehiclesTitles.Tests", "VehiclesTitles.Tests\VehiclesTitles.Tests.csproj", "{E71B8BA0-ADFE-48D0-A144-7ACD2324C38D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehiclesTitles.Tests", "VehiclesTitles.Tests\VehiclesTitles.Tests.csproj", "{E71B8BA0-ADFE-48D0-A144-7ACD2324C38D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
